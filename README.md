@@ -59,16 +59,6 @@ pip install tensorflow matplotlib notebook
 
 ---
 
-## 🖼 Example Output
-
-- **Training/Validation Accuracy & Loss Plots**
-- **Test Accuracy & Loss**
-- **Side-by-side image predictions:**  
-  ![Sample Output](https://raw.githubusercontent.com/keras-team/keras-io/master/img/cifar10.png)  
-  *(Your notebook will generate similar plots!)*
-
----
-
 ## 🤔 Why Use This Notebook?
 
 - **Learn by doing:** Every step is explained.
